@@ -1,0 +1,4 @@
+sruja@Srujan MINGW64 ~/mcino-Introduction-to-Git-and-GitHub (bug-fix-typo)
+$ git branch -vv
+* bug-fix-typo 54dce18 Additional fix in README
+  main         57987ba [origin/main: ahead 1] Fix typo in README
